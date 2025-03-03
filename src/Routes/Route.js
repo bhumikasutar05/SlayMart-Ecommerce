@@ -61,6 +61,7 @@ const SignUp = lazy(() => import("../pages/SignUp/SignUp.jsx"));
 
 const Route = () => {
   const route = useRoutes([
+    { index: true, element: <Home /> },
     {
       path: "/",
       element: <Home />,

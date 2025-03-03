@@ -86,7 +86,8 @@
   font-weight: 400;
 }
 
-.login-logo-div a {
+.login-logo-div a,
+.login-logo-div span {
   cursor: pointer;
 }
 

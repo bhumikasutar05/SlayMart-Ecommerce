@@ -286,9 +286,7 @@ const Cart = () => {
             <h1>
               Your Cart is Empty-
               <span>
-                <Link to="/" target="click here to shop">
-                  Shop Now
-                </Link>
+                <Link to="/">Shop Now</Link>
               </span>
             </h1>
           </div>

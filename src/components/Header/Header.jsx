@@ -121,7 +121,7 @@ const Header = () => {
           <div className="login-logo-div" onClick={handleLoginClicked}>
             <Link to="/login">Login</Link>
             <Link to="/signup">SignUp</Link>
-            <a onClick={handleLogout}>Logout</a>
+            <span onClick={handleLogout}>Logout</span>
           </div>
         </span>
 
