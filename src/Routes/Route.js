@@ -63,10 +63,6 @@ const Route = () => {
   const route = useRoutes([
     { index: true, element: <Home /> },
     {
-      path: "/",
-      element: <Home />,
-    },
-    {
       path: "/contact",
       element: <ContactUs />,
     },
