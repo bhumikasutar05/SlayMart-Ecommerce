@@ -1,0 +1,41 @@
+.main {
+  display: flex;
+  justify-content: space-around;
+  gap: 12;
+  align-items: center;
+  padding: 10px 20px;
+  color: rgb(73, 72, 72);
+}
+
+.main-2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 12;
+  align-items: center;
+  padding: 10px 20px;
+  color: rgb(73, 72, 72);
+}
+
+.policy-image {
+  width: 50px;
+  margin: auto;
+  margin-bottom: 15px;
+}
+
+.para {
+  font-weight: 700;
+}
+
+.para1 {
+  font-weight: 400;
+  color: rgb(144, 141, 141);
+}
+
+@media (max-width: 600px) {
+  .main {
+    gap: 10px;
+    flex-direction: column;
+    padding: 10px;
+  }
+}

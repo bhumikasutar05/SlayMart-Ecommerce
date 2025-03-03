@@ -1,0 +1,259 @@
+.footer {
+  display: flex;
+  padding: 40px 60px;
+  background: #09172f;
+  color: white;
+  gap: 40px;
+  align-items: start;
+}
+
+.foot1 {
+  display: flex;
+  flex-basis: 60%;
+  flex-direction: column;
+}
+
+.img .logo {
+  font-size: 40px;
+  font-weight: 600;
+  color: #f41cb2;
+  text-shadow: 0.5px 1.5px #981734;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.img .logo span {
+  color: #e47137;
+  text-shadow: 0.5px 1.5px #981734;
+  padding: 0 3px;
+}
+
+.foot1 .get-in-touch {
+  padding: 10px;
+}
+
+.foot1 .get-in-touch span {
+  font-weight: 700;
+}
+
+.quick-links {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  flex-basis: 20%;
+}
+
+.about-us {
+  padding: 10px;
+}
+
+.about-us span {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.about-us p {
+  font-size: 16px;
+  line-height: 1.6;
+  color: #ccc;
+}
+
+.quick-links span {
+  font-size: 20px;
+  font-weight: 600;
+  color: #e47137;
+  margin-bottom: 8px;
+}
+
+.quick-links a {
+  padding: 5px;
+  text-decoration: none;
+  color: white;
+  font-size: 16px;
+  transition: color 0.3s;
+}
+
+.quick-links a:hover {
+  color: #f41cb2;
+}
+
+.get-in-touch ul li {
+  font-size: 14px;
+  color: #ccc;
+}
+
+.follow-me {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 10px;
+  gap: 10px;
+  flex-basis: 20%;
+}
+
+.follow-me .follow-me-head {
+  font-size: 20px;
+  font-weight: 600;
+  color: #e47137;
+}
+
+.follow-us-sub {
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.follow-us-sub a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+}
+
+.follow-us-sub a .follow-me-heading {
+  margin-left: 5px;
+  color: #fff;
+  font-size: 16px;
+}
+
+.follow-us-sub a .follow-me-heading:hover {
+  color: #f41cb2;
+}
+
+.copy {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.copy p {
+  padding: 10px;
+  font-size: 16px;
+  color: #343434;
+}
+
+/* responsive */
+@media screen and (max-width: 768px) {
+  .footer {
+    flex-direction: column;
+    padding: 10px 20px;
+    gap: 15px;
+  }
+
+  .img .logo {
+    font-size: 30px;
+  }
+
+  .about-us {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .foot1 .get-in-touch {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+  }
+
+  .get-in-touch ul li {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .quick-links a {
+    font-size: 14px;
+    gap: 6px;
+  }
+
+  .footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+  }
+
+  .img .logo {
+    font-size: 30px;
+  }
+
+  .about-us {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .foot1 .get-in-touch {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+  }
+
+  .get-in-touch ul li {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .quick-links a {
+    font-size: 14px;
+    gap: 6px;
+  }
+
+  .follow-me {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .follow-us-sub {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .follow-us-sub a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+  }
+
+  .copy p {
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .footer {
+    display: flex;
+    flex-direction: column;
+    padding: 10px 20px;
+    gap: 15px;
+    align-items: center;
+  }
+
+  .foot1 {
+    align-items: center;
+  }
+
+  .about-us p {
+    text-align: center;
+  }
+}
