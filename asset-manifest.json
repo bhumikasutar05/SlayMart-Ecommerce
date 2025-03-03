@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SlayMart-Ecommerce/static/css/main.742abc7e.css",
-    "main.js": "/SlayMart-Ecommerce/static/js/main.260057a0.js",
+    "main.js": "/SlayMart-Ecommerce/static/js/main.6dd1ae8f.js",
     "static/css/731.22da1387.chunk.css": "/SlayMart-Ecommerce/static/css/731.22da1387.chunk.css",
     "static/js/731.a6ee565c.chunk.js": "/SlayMart-Ecommerce/static/js/731.a6ee565c.chunk.js",
     "static/css/778.3f538fa3.chunk.css": "/SlayMart-Ecommerce/static/css/778.3f538fa3.chunk.css",
@@ -54,7 +54,7 @@
     "static/media/b2.jpg": "/SlayMart-Ecommerce/static/media/b2.143e491242b908d2e1fa.jpg",
     "index.html": "/SlayMart-Ecommerce/index.html",
     "main.742abc7e.css.map": "/SlayMart-Ecommerce/static/css/main.742abc7e.css.map",
-    "main.260057a0.js.map": "/SlayMart-Ecommerce/static/js/main.260057a0.js.map",
+    "main.6dd1ae8f.js.map": "/SlayMart-Ecommerce/static/js/main.6dd1ae8f.js.map",
     "731.22da1387.chunk.css.map": "/SlayMart-Ecommerce/static/css/731.22da1387.chunk.css.map",
     "731.a6ee565c.chunk.js.map": "/SlayMart-Ecommerce/static/js/731.a6ee565c.chunk.js.map",
     "778.3f538fa3.chunk.css.map": "/SlayMart-Ecommerce/static/css/778.3f538fa3.chunk.css.map",
@@ -97,6 +97,6 @@
   },
   "entrypoints": [
     "static/css/main.742abc7e.css",
-    "static/js/main.260057a0.js"
+    "static/js/main.6dd1ae8f.js"
   ]
 }
