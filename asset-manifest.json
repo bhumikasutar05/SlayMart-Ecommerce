@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/SlayMart-Ecommerce/static/css/main.abcfc43e.css",
-    "main.js": "/SlayMart-Ecommerce/static/js/main.aafee238.js",
+    "main.css": "/SlayMart-Ecommerce/static/css/main.742abc7e.css",
+    "main.js": "/SlayMart-Ecommerce/static/js/main.260057a0.js",
     "static/css/731.22da1387.chunk.css": "/SlayMart-Ecommerce/static/css/731.22da1387.chunk.css",
-    "static/js/731.b62a654f.chunk.js": "/SlayMart-Ecommerce/static/js/731.b62a654f.chunk.js",
+    "static/js/731.a6ee565c.chunk.js": "/SlayMart-Ecommerce/static/js/731.a6ee565c.chunk.js",
     "static/css/778.3f538fa3.chunk.css": "/SlayMart-Ecommerce/static/css/778.3f538fa3.chunk.css",
     "static/js/778.120b9aa6.chunk.js": "/SlayMart-Ecommerce/static/js/778.120b9aa6.chunk.js",
     "static/css/890.751acb08.chunk.css": "/SlayMart-Ecommerce/static/css/890.751acb08.chunk.css",
@@ -53,10 +53,10 @@
     "static/media/applycoupon.png": "/SlayMart-Ecommerce/static/media/applycoupon.8742110abbfb306a079a.png",
     "static/media/b2.jpg": "/SlayMart-Ecommerce/static/media/b2.143e491242b908d2e1fa.jpg",
     "index.html": "/SlayMart-Ecommerce/index.html",
-    "main.abcfc43e.css.map": "/SlayMart-Ecommerce/static/css/main.abcfc43e.css.map",
-    "main.aafee238.js.map": "/SlayMart-Ecommerce/static/js/main.aafee238.js.map",
+    "main.742abc7e.css.map": "/SlayMart-Ecommerce/static/css/main.742abc7e.css.map",
+    "main.260057a0.js.map": "/SlayMart-Ecommerce/static/js/main.260057a0.js.map",
     "731.22da1387.chunk.css.map": "/SlayMart-Ecommerce/static/css/731.22da1387.chunk.css.map",
-    "731.b62a654f.chunk.js.map": "/SlayMart-Ecommerce/static/js/731.b62a654f.chunk.js.map",
+    "731.a6ee565c.chunk.js.map": "/SlayMart-Ecommerce/static/js/731.a6ee565c.chunk.js.map",
     "778.3f538fa3.chunk.css.map": "/SlayMart-Ecommerce/static/css/778.3f538fa3.chunk.css.map",
     "778.120b9aa6.chunk.js.map": "/SlayMart-Ecommerce/static/js/778.120b9aa6.chunk.js.map",
     "890.751acb08.chunk.css.map": "/SlayMart-Ecommerce/static/css/890.751acb08.chunk.css.map",
@@ -96,7 +96,7 @@
     "156.4e350e09.chunk.js.map": "/SlayMart-Ecommerce/static/js/156.4e350e09.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.abcfc43e.css",
-    "static/js/main.aafee238.js"
+    "static/css/main.742abc7e.css",
+    "static/js/main.260057a0.js"
   ]
 }
